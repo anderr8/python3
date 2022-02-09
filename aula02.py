@@ -1,7 +1,7 @@
-# Meta caractere: . ^ $ * + ? { } \ | ( )
+# Meta caracteres: . ^ $ * + ? { } \ | ( )
 # | = barra reta no teclado paip
 #. = significa qualquer caractere (com execeção da quebra de linha)
-# [] conjunto de caracteres
+# [a-z0-9] -> range, conjunto de caracteres
 
 import re
 
