@@ -1,4 +1,5 @@
 # Shorthands e flags importantes:
+
 # shorthans → \w → representa todos e mais Maiúscula e minúsculas caracteres exemplo: [a-zA-Z0-9À-ú_]
 # \w → [a-zA-Z0-9_] → flags=re.A ou flags=re.ASCII
 # \W → [^a-zA-Z0-9À-ú_] → a letra maiscúla representa a negação
